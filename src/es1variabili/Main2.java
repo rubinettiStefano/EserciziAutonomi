@@ -17,6 +17,6 @@ public class Main2
     {
         in = new Person();
         in.name = "Pippo";
-        in.name = "Surname";
+        in.surname = "Rubinetti";
     }
 }
